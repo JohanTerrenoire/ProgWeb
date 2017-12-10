@@ -1,0 +1,28 @@
+body
+{
+  width: 60%;
+  margin: auto;
+  background-color: #A9C0FE;
+}
+div
+{
+  border: solid;
+  border-color: black;
+  border-width: medium;
+  border-radius: 3%;
+  padding: 10px;
+}
+h1, h3{
+  text-shadow: white 2px 1px;
+}
+a{
+  text-decoration: none;
+}
+#ajout
+{
+  float: left;
+}
+#supprimer
+{
+  float: right;
+}
